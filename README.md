@@ -14,6 +14,11 @@
 - Driver is rotated every 10 minutes
 - Code can only be changed with supporting tests (TDD)
 
+### Build and Test
+
+1. mvn clean install
+2. mvn test
+
 ### Task:
 
 1. Finish Scenario 1
