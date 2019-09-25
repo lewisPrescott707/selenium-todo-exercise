@@ -58,14 +58,14 @@ formatter.match({
   "location": "ToDoStepDefinition.user_already_on_home_page()"
 });
 formatter.result({
-  "duration": 1654734250,
+  "duration": 2021951229,
   "status": "passed"
 });
 formatter.match({
   "location": "ToDoStepDefinition.close_the_browser()"
 });
 formatter.result({
-  "duration": 73525748,
+  "duration": 77949648,
   "status": "passed"
 });
 });
