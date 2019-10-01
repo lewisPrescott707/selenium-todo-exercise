@@ -21,7 +21,8 @@
 
 ### Build and Test
 
-Pre-requisite: App running on http://localhost:8080
+Pre-requisite: App running on http://localhost:8080 
+(https://lambdatest.github.io/sample-todo-app/)
 
 1. mvn clean install
 2. mvn test
